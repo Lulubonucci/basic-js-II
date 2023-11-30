@@ -178,6 +178,6 @@ console.log(saludar("Lours"))
 //Escribe tu código aquí
 
 function calcularAreaRectangulo(ancho, alto){
-return ancho * alto
+return ancho * alto /2
 }
 console.log(calcularAreaRectangulo(50,20))
